@@ -1,0 +1,100 @@
+
+h1,h2,h3,h4,h5,h5 {
+  font-family: 'Teko', sans-serif;
+}
+  #first {
+      background-color: #152940;
+      font-family: 'Staatliches', cursive;
+      color: white;
+  }
+  .navbar {
+      background-color: #152940;
+      text-align: center;
+  }
+  .catch-phrase {
+      margin-top: 150px;
+      text-align: center;
+      font-size: 3.5rem;
+  }
+  .btn {
+      color: white;
+      border-color: white;
+  }
+  .btn:hover {
+      background-color: white;
+      color: black;
+  }
+  #second {
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+  }
+  .about {
+    margin-right:20px;
+    
+  }
+  p {
+    font-family: 'Grenze', serif;
+    font-size: 20px;
+  }
+  .fas {
+    color: #3E78BC;
+  }
+  .fas:hover {
+    color:#152940 ;
+  }
+  #third {
+      color: white;
+    background-color: #152940;
+  }
+  .carousel {
+    background-color: #152940;
+  }
+  .truckImg {
+    width: 300px;
+  }
+  #carouselExampleControls {
+    width: 100%;
+    height: 500px;
+    
+  }
+  .testimonial-img {
+    width: 100px;
+  }
+  .carousel-item{
+    margin-top: 100px;
+    padding-left: 90px;
+    padding-right: 90px;
+  }
+  #fourth {
+      margin-top: 100px;
+      margin-bottom: 100px;
+  }
+
+  
+  
+  .card img {
+    object-fit: cover;
+      width:100px;
+  }
+  #fifth {
+      background-color:#152940 ;
+      color: white;
+      height: 200px;
+  }
+  
+  .footericon {
+    padding: 60px 10px;
+  }
+  
+  .footertext {
+    font-size: small;
+  }
+  
+
+ 
+  /* 
+
+
+ */
+  
